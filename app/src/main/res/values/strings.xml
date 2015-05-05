@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">PhotoFilter2.0</string>
+
+    <string name="action_camera">camera</string>
+    <string name="action_save">save</string>
+    <string name="action_blur">blur</string>
+    <string name="action_pixelate">pixelate</string>
+
+</resources>

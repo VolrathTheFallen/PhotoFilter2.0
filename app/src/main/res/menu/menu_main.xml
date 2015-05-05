@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+<!--
+    <item android:id="@+id/action_camera"
+        android:title="@string/action_camera"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_action_camera_192x192"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_save"
+        android:title="@string/action_save"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_action_save_192x192"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_blur"
+        android:title="@string/action_blur"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_blurred_sonic_192x192_2"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_pixelate"
+        android:title="@string/action_pixelate"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_pixellated_mario_192x192_2"
+        app:showAsAction="ifRoom" />
+-->
+
+</menu>

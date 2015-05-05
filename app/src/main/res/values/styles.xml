@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style
+        name="AppTheme"
+        parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+
+    <style name="ActionButtonStyle"
+        parent="@android:style/Widget.Holo.Light.ActionButton">
+        <item name="android:actionButtonStyle">@style/ActionButtonStyle</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingBottom">0dip</item>
+        <item name="android:paddingTop">0dip</item>
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+        <item name="android:maxHeight">400dip</item>
+        <item name="android:maxWidth">400dip</item>
+    </style>
+
+    <!--<style
+        name="MyActionBar"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#000000</item>
+    </style> -->
+
+</resources>
